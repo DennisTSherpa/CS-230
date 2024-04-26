@@ -31,5 +31,4 @@ The following are questions that I will answer to provide brief overview of my S
             - Create a to-do list (in order, meaning first to last step) for the software design according to the user’s needs.
             - Complete the to-do list in the written order.
             - Check and refine.
-![image](https://github.com/DennisTSherpa/CS-230/assets/137899915/a42cc250-d6bd-45d4-a0f3-e08e803c8ce2)
 
