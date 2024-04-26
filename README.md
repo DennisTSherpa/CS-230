@@ -1,6 +1,6 @@
 # CS-230
 
-The following are questions that I will answer to provide brief overview of my Software Design Document.
+The following are questions that I will answer to provide a brief overview of my Software Design Document.
 
 1.	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
     - Answer:    
