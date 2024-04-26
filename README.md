@@ -4,7 +4,7 @@ The following are questions that I will answer to provide brief overview of my S
 
 1.	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
     - Answer:    
-i.	The client: The Gaming Room
+        - The client: The Gaming Room
 ii.	Software Design Requested: The Gaming Room wants to develop a web-based game that serves multiple platforms based on their current game, Draw It or Lose It, which is currently available as an Android app only.
 2.	What did you do particularly well in developing this documentation?
 a.	Answer:
